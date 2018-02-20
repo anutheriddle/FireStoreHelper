@@ -38,15 +38,15 @@
 		607FACE51AFB9204008FA782 /* FireStoreHelper_Tests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = FireStoreHelper_Tests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		607FACEA1AFB9204008FA782 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		607FACEB1AFB9204008FA782 /* Tests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tests.swift; sourceTree = "<group>"; };
-		6BCF0984631ABCB25E489028 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
+		6BCF0984631ABCB25E489028 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
 		84878697124D92970820B8D7 /* Pods-FireStoreHelper_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-FireStoreHelper_Example.debug.xcconfig"; path = "Pods/Target Support Files/Pods-FireStoreHelper_Example/Pods-FireStoreHelper_Example.debug.xcconfig"; sourceTree = "<group>"; };
-		9762761E75471E85220868EB /* FireStoreHelper.podspec */ = {isa = PBXFileReference; includeInIndex = 1; name = FireStoreHelper.podspec; path = ../FireStoreHelper.podspec; sourceTree = "<group>"; };
+		9762761E75471E85220868EB /* FireStoreHelper.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = FireStoreHelper.podspec; path = ../FireStoreHelper.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		B1D3565F1C1A7BC75F0CE0CD /* Pods_FireStoreHelper_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_FireStoreHelper_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		B5A9D35508F6101013294A61 /* Pods_FireStoreHelper_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_FireStoreHelper_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		C3FD94E1730CCDA40DF7B1ED /* Pods-FireStoreHelper_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-FireStoreHelper_Tests.release.xcconfig"; path = "Pods/Target Support Files/Pods-FireStoreHelper_Tests/Pods-FireStoreHelper_Tests.release.xcconfig"; sourceTree = "<group>"; };
 		CBBED3D21489C43BBF721923 /* Pods-FireStoreHelper_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-FireStoreHelper_Tests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-FireStoreHelper_Tests/Pods-FireStoreHelper_Tests.debug.xcconfig"; sourceTree = "<group>"; };
 		E666802910FB3E8EF958A129 /* Pods-FireStoreHelper_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-FireStoreHelper_Example.release.xcconfig"; path = "Pods/Target Support Files/Pods-FireStoreHelper_Example/Pods-FireStoreHelper_Example.release.xcconfig"; sourceTree = "<group>"; };
-		FC8424FDA35932B111EB0061 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; name = README.md; path = ../README.md; sourceTree = "<group>"; };
+		FC8424FDA35932B111EB0061 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */

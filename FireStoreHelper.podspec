@@ -9,7 +9,7 @@
 Pod::Spec.new do |s|
   s.name             = 'FireStoreHelper'
   s.version          = '0.1.0'
-  s.summary          = 'A short description of FireStoreHelper.'
+  s.summary          = 'Very good library to use FireStore'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
@@ -18,15 +18,14 @@ Pod::Spec.new do |s|
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
   s.description      = <<-DESC
-TODO: Add long description of the pod here.
-                       DESC
+  FireStore Helper is on its beta version . It will play a key role with developer.
+DESC
 
-  s.homepage         = 'https://github.com/anurag_android@hotmail.com/FireStoreHelper'
-  # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
+  s.homepage         = 'https://github.com/anutheriddle/FireStoreHelper'
+ 
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
-  s.author           = { 'anurag_android@hotmail.com' => 'anurag_android@hotmail.com' }
-  s.source           = { :git => 'https://github.com/anurag_android@hotmail.com/FireStoreHelper.git', :tag => s.version.to_s }
-  # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
+  s.author           = { 'Anurag Sharma' => 'anurag_android@hotmail.com' }
+  s.source           = { :git => 'https://github.com/anutheriddle/FireStoreHelper.git', :tag => s.version.to_s }
 
   s.ios.deployment_target = '8.0'
 
@@ -36,7 +35,7 @@ TODO: Add long description of the pod here.
   #   'FireStoreHelper' => ['FireStoreHelper/Assets/*.png']
   # }
 
-  # s.public_header_files = 'Pod/Classes/**/*.h'
+  s.public_header_files = 'Pod/Classes/**/*.h'
   # s.frameworks = 'UIKit', 'MapKit'
   # s.dependency 'AFNetworking', '~> 2.3'
 end
