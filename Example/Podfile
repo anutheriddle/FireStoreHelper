@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'FireStoreHelper_Example' do
+  pod 'FireStoreHelper', :path => '../'
+
+  target 'FireStoreHelper_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
