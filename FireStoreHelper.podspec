@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'FireStoreHelper'
-  s.version          = '0.1.0'
+  s.version          = '2.0.0'
   s.summary          = 'Very good library to use FireStore'
 
 # This description is used to generate tags and improve search results.
