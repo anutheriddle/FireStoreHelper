@@ -22,7 +22,7 @@ pod 'FireStoreHelper'
 
 ## Author
 
-anurag_android@hotmail.com, anurag_android@hotmail.com
+Anurag Sharma, anurag_android@hotmail.com
 
 ## License
 
