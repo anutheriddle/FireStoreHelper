@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'FireStoreHelper'
-  s.version          = '2.0.0'
+  s.version          = '2.0.1'
   s.summary          = 'Very good library to use FireStore'
 
 # This description is used to generate tags and improve search results.
@@ -25,17 +25,8 @@ DESC
  
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'Anurag Sharma' => 'anurag_android@hotmail.com' }
-  s.source           = { :git => 'https://github.com/anutheriddle/FireStoreHelper.git', :tag => s.version.to_s }
-
+  s.source           = { :git => 'https://github.com/anutheriddle/FireStoreHelper.git', :tag => '2.0.1' }
   s.ios.deployment_target = '8.0'
-
-  s.source_files = 'FireStoreHelper/Classes/**/*'
-  
-  # s.resource_bundles = {
-  #   'FireStoreHelper' => ['FireStoreHelper/Assets/*.png']
-  # }
-
-  # s.public_header_files = 'Pod/Classes/**/*.h'
-  # s.frameworks = 'UIKit', 'MapKit'
-  # s.dependency 'AFNetworking', '~> 2.3'
+  s.source_files = 'FireStoreHelper/Classes/**/*.swift'
+  s.requires_arc = true
 end
